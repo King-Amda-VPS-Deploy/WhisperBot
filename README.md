@@ -5,6 +5,9 @@ Contact Via Email<br><br>
 
 [![Demo](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://nipuncontactform.000webhost.com)<br><br>
 
+# Deploy
+<a href="https://heroku.com/deploy?template=https://github.com/King-Amda-VPS-Deploy/WhisperBot.git">Here</a>
+
 # ScreenShots
 
 <img src="/img/ss1.jpg">
